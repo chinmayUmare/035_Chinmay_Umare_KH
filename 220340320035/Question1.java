@@ -27,7 +27,7 @@ class InsertionSort
 			a1[i]=sc.nextInt();
 		}
 		
-		System.out.println("==================");
+		//System.out.println("==================");
 		
 		
 		//Insertion Sort
