@@ -22,7 +22,7 @@ class InsertionSort
 		
 		System.out.println("Enter Elements   --> ");
 		
-		for (int i=0; i<n; i++)
+		for (int k=0; k<n; k++)
 		{
 			a1[i]=sc.nextInt();
 		}
